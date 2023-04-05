@@ -1,0 +1,22 @@
+.row-2{
+    Display: flex;
+    justify-content:space-between;
+    margin: 30px auto 50px;
+}
+select{
+    border: 1px solid #ff523b;
+    padding: 5px;
+}
+.products.father {
+    display: flex;
+    justify-content: space-around;
+}
+.products .son{
+    padding: 10px;
+    min-width:200px ;
+    margin-bottom: 50px;
+}
+
+
+
+
